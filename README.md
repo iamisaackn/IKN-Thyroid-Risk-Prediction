@@ -1,1 +1,1 @@
-# IThyroid-Risk-Prediction
+# Thyroid-Risk-Prediction
