@@ -163,5 +163,3 @@ The models demonstrated varying levels of performance, with K-Nearest Neighbors 
 4. Real-World Application: Test the predictive models in real-world clinical settings to evaluate their practical utility.
 
 5. Patient Education Programs: Develop educational programs for patients and healthcare providers on the importance of recognizing thyroid disorder symptoms and risk factors.
-
-This README provides a comprehensive overview of the Thyroid Risk Prediction project, detailing its objectives, methodology, findings, and future directions. For further inquiries or collaboration opportunities, please contact the project team.
